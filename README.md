@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Jonathan 👋
 
+Game Programmer student at Futuregmaes Skellefteå. Pursuing my dream of entering the games industry.
+
+[LinkedIn](https://www.linkedin.com/in/jonathan-isaksson-7a56421a4/)
 <!--
 **Tignaltus/Tignaltus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
