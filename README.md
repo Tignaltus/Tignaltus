@@ -1,6 +1,6 @@
 ### Hi there, I'm Jonathan 👋
 
-Game Programmer student at Futuregmaes Skellefteå. Pursuing my dream of entering the games industry.
+Fullstack student at Chas Academy in Sweden.
 
 [LinkedIn](https://www.linkedin.com/in/jonathan-isaksson-7a56421a4/) | Portfolio
 <!--
