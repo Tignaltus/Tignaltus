@@ -1,6 +1,6 @@
 ### Hi there, I'm Jonathan 👋
 
-Fullstack student at Chas Academy in Sweden.
+Fullstack student based in Sweden.
 
 [LinkedIn](https://www.linkedin.com/in/jonathan-isaksson-7a56421a4/) | Portfolio
 <!--
