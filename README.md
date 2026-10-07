@@ -2,7 +2,7 @@
 
 Fullstack student based in Sweden.
 
-[LinkedIn](https://www.linkedin.com/in/jonathan-isaksson-7a56421a4/) | Portfolio
+[LinkedIn](https://www.linkedin.com/in/jonathan-isaksson-7a56421a4/)
 <!--
 **Tignaltus/Tignaltus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
